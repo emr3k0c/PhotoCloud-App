@@ -1,0 +1,7 @@
+[Thu May 25 09:07:17 TRT 2023][ERROR] Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "image" is null
+[Thu May 25 10:13:07 TRT 2023][ERROR] Index 408 out of bounds for length 408
+[Thu May 25 11:26:21 TRT 2023][ERROR] Index 1197 out of bounds for length 1197
+[Fri May 26 10:50:43 TRT 2023][ERROR] Index 408 out of bounds for length 408
+[Fri May 26 10:50:57 TRT 2023][ERROR] Index 408 out of bounds for length 408
+[Fri May 26 10:50:57 TRT 2023][ERROR] Index 408 out of bounds for length 408
+[Sun May 28 16:22:28 TRT 2023][ERROR] Index 1197 out of bounds for length 1197

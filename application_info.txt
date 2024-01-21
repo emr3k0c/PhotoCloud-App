@@ -1,0 +1,273 @@
+[Thu May 25 07:51:53 TRT 2023][INFO] Application started at: 2023-05-25T07:51:53.915838
+[Thu May 25 07:51:54 TRT 2023][INFO] Application ended at: 2023-05-25T07:51:54.227913
+[Thu May 25 07:52:41 TRT 2023][INFO] A new ProfessionalUser has signed up with the username: emrekoc.
+[Thu May 25 07:53:13 TRT 2023][INFO] A new ProfessionalUser has signed up with the username: dilaraceylan.
+[Thu May 25 07:53:56 TRT 2023][INFO] A new ProfessionalUser has signed up with the username: ceydacelik.
+[Thu May 25 07:54:33 TRT 2023][INFO] A new HobbyistUser has signed up with the username: berkayyilmaz.
+[Thu May 25 07:55:07 TRT 2023][INFO] A new HobbyistUser has signed up with the username: alperenyilmaz.
+[Thu May 25 07:55:44 TRT 2023][INFO] A new HobbyistUser has signed up with the username: kazimcan.
+[Thu May 25 07:56:19 TRT 2023][INFO] A new FreeUser has signed up with the username: sebnemdemirtas.
+[Thu May 25 07:56:45 TRT 2023][INFO] A new FreeUser has signed up with the username: batinsahin.
+[Thu May 25 07:57:10 TRT 2023][INFO] A new FreeUser has signed up with the username: dogadereci.
+[Thu May 25 07:57:42 TRT 2023][INFO] A new Administrator has signed up with the username: administrator.
+[Thu May 25 07:57:55 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 07:58:11 TRT 2023][INFO] User: users.ProfessionalUser@25296ae9has changed their profile photo.
+[Thu May 25 07:58:26 TRT 2023][INFO] User: emrekocshared dog.png file as new photo.
+[Thu May 25 07:58:36 TRT 2023][INFO] User: emrekocshared lion.png file as new photo.
+[Thu May 25 07:58:51 TRT 2023][INFO] User: emrekocshared giraffe.png file as new photo.
+[Thu May 25 07:59:37 TRT 2023][INFO] GrayScale filter is applied to dog.png file, took: 68ms.
+[Thu May 25 07:59:47 TRT 2023][INFO] The image: grayScaledDog.png has written to the images folder.
+[Thu May 25 08:00:03 TRT 2023][INFO] User: users.ProfessionalUser@25296ae9 has made lion.png image visible.
+[Thu May 25 08:00:08 TRT 2023][INFO] User: users.ProfessionalUser@25296ae9 has made grayScaledDog.png image visible.
+[Thu May 25 08:01:40 TRT 2023][INFO] Application started at: 2023-05-25T08:01:40.654749
+[Thu May 25 08:01:41 TRT 2023][INFO] Application ended at: 2023-05-25T08:01:41.706008
+[Thu May 25 08:01:51 TRT 2023][INFO] User dilaraceylan logged in successfully
+[Thu May 25 08:02:04 TRT 2023][INFO] User: users.ProfessionalUser@4278046has changed their profile photo.
+[Thu May 25 08:02:22 TRT 2023][INFO] User: dilaraceylanshared ladyBird.png file as new photo.
+[Thu May 25 08:03:22 TRT 2023][INFO] User: dilaraceylanshared elephant.png file as new photo.
+[Thu May 25 08:03:46 TRT 2023][INFO] User: dilaraceylanshared fish.png file as new photo.
+[Thu May 25 08:04:03 TRT 2023][INFO] EdgeDetection filter is applied to ladyBird.png file, took: 634ms.
+[Thu May 25 08:04:20 TRT 2023][INFO] The image: edgeDetectedLadybird.png has written to the images folder.
+[Thu May 25 08:04:35 TRT 2023][INFO] User: users.ProfessionalUser@4278046 has made edgeDetectedLadybird.png image visible.
+[Thu May 25 08:04:43 TRT 2023][INFO] User: users.ProfessionalUser@4278046 has made fish.png image visible.
+[Thu May 25 08:05:03 TRT 2023][INFO] User: users.ProfessionalUser@4278046commented the users.ProfessionalUser@c704acd's grayScaledDog.png image: Nice grayScaled dog!.
+[Thu May 25 08:07:09 TRT 2023][INFO] Application started at: 2023-05-25T08:07:09.500181
+[Thu May 25 08:07:12 TRT 2023][INFO] Application ended at: 2023-05-25T08:07:12.760089
+[Thu May 25 08:07:21 TRT 2023][INFO] User ceydacelik logged in successfully
+[Thu May 25 08:10:11 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4has updated their information.
+[Thu May 25 08:10:28 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4has changed their profile photo.
+[Thu May 25 08:10:35 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4has changed their profile photo.
+[Thu May 25 08:10:46 TRT 2023][INFO] User: ceydacelikshared cow.png file as new photo.
+[Thu May 25 08:10:55 TRT 2023][INFO] User: ceydacelikshared cat.png file as new photo.
+[Thu May 25 08:11:35 TRT 2023][INFO] Brightness filter is applied to cow.png file, took: 34ms.
+[Thu May 25 08:11:46 TRT 2023][INFO] The image: brightenedCow.png has written to the images folder.
+[Thu May 25 08:11:55 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4 has made brightenedCow.png image visible.
+[Thu May 25 08:12:05 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4disliked the users.ProfessionalUser@31206beb's edgeDetectedLadybird.png image.
+[Thu May 25 08:12:18 TRT 2023][INFO] User: users.ProfessionalUser@a3f58a4commented the users.ProfessionalUser@31206beb's edgeDetectedLadybird.png image: EdgeDetection filter seems broke..
+[Thu May 25 08:13:03 TRT 2023][INFO] Application started at: 2023-05-25T08:13:03.766919
+[Thu May 25 08:13:07 TRT 2023][INFO] Application ended at: 2023-05-25T08:13:07.131532
+[Thu May 25 08:13:17 TRT 2023][INFO] User berkayyilmaz logged in successfully
+[Thu May 25 08:13:29 TRT 2023][INFO] User: users.HobbyistUser@9015263has changed their profile photo.
+[Thu May 25 08:13:50 TRT 2023][INFO] User: berkayyilmazshared bird.png file as new photo.
+[Thu May 25 08:14:03 TRT 2023][INFO] User: berkayyilmazshared giraffe.png file as new photo.
+[Thu May 25 08:14:32 TRT 2023][INFO] Blur filter is applied to giraffe.png file, took: 2106ms.
+[Thu May 25 08:14:40 TRT 2023][INFO] The image: blurredGiraffe.png has written to the images folder.
+[Thu May 25 08:14:48 TRT 2023][INFO] User: users.HobbyistUser@9015263 has made blurredGiraffe.png image visible.
+[Thu May 25 08:15:09 TRT 2023][INFO] User: users.HobbyistUser@9015263commented the users.ProfessionalUser@b59d31's brightenedCow.png image: cool.
+[Thu May 25 08:15:11 TRT 2023][INFO] User: users.HobbyistUser@9015263liked the users.ProfessionalUser@b59d31's brightenedCow.png image.
+[Thu May 25 08:15:23 TRT 2023][INFO] User: users.HobbyistUser@9015263disliked the users.ProfessionalUser@150b0572's lion.png image.
+[Thu May 25 08:15:29 TRT 2023][INFO] User: users.HobbyistUser@9015263commented the users.ProfessionalUser@150b0572's lion.png image: bad photo.
+[Thu May 25 08:15:36 TRT 2023][INFO] User: users.HobbyistUser@9015263disliked the users.ProfessionalUser@37574691's edgeDetectedLadybird.png image.
+[Thu May 25 08:15:55 TRT 2023][INFO] User: users.HobbyistUser@9015263commented the users.ProfessionalUser@37574691's edgeDetectedLadybird.png image: terrible.
+[Thu May 25 08:16:56 TRT 2023][INFO] Application started at: 2023-05-25T08:16:56.714294
+[Thu May 25 08:17:00 TRT 2023][INFO] Application ended at: 2023-05-25T08:17:00.796985
+[Thu May 25 08:17:12 TRT 2023][INFO] User alperenyilmaz logged in successfully
+[Thu May 25 08:17:27 TRT 2023][INFO] User: users.HobbyistUser@108bfd03has changed their profile photo.
+[Thu May 25 08:17:48 TRT 2023][INFO] User: alperenyilmazshared snake.png file as new photo.
+[Thu May 25 08:18:21 TRT 2023][INFO] Contrast filter is applied to snake.png file, took: 99ms.
+[Thu May 25 08:18:28 TRT 2023][INFO] The image: contrastedSnake.png has written to the images folder.
+[Thu May 25 08:18:34 TRT 2023][INFO] User: users.HobbyistUser@108bfd03 has made contrastedSnake.png image visible.
+[Thu May 25 08:18:51 TRT 2023][INFO] User: users.HobbyistUser@108bfd03commented the users.ProfessionalUser@71248c21's edgeDetectedLadybird.png image: nice try.
+[Thu May 25 08:19:10 TRT 2023][INFO] User: users.HobbyistUser@108bfd03commented the users.HobbyistUser@108bfd03's contrastedSnake.png image: like my post.
+[Thu May 25 08:19:43 TRT 2023][INFO] User: users.HobbyistUser@108bfd03liked the users.ProfessionalUser@4a6fbdd9's grayScaledDog.png image.
+[Thu May 25 08:19:46 TRT 2023][INFO] User: users.HobbyistUser@108bfd03liked the users.ProfessionalUser@37574691's brightenedCow.png image.
+[Thu May 25 08:20:01 TRT 2023][INFO] Application started at: 2023-05-25T08:20:01.986225
+[Thu May 25 08:20:06 TRT 2023][INFO] Application ended at: 2023-05-25T08:20:06.227540
+[Thu May 25 08:20:21 TRT 2023][INFO] User batinsahin logged in successfully
+[Thu May 25 08:20:40 TRT 2023][INFO] User: users.FreeUser@1a495742has changed their profile photo.
+[Thu May 25 08:21:17 TRT 2023][INFO] User: batinsahinshared goat.png file as new photo.
+[Thu May 25 08:21:45 TRT 2023][INFO] Sharpen filter is applied to goat.png file, took: 2409ms.
+[Thu May 25 08:21:48 TRT 2023][INFO] The image: sharpenedGoat.png has written to the images folder.
+[Thu May 25 08:22:06 TRT 2023][INFO] User: users.FreeUser@1a495742 has made sharpenedGoat.png image visible.
+[Thu May 25 08:22:22 TRT 2023][INFO] User: users.FreeUser@1a495742commented the users.ProfessionalUser@49070868's edgeDetectedLadybird.png image: amazing canimcim.
+[Thu May 25 08:22:24 TRT 2023][INFO] User: users.FreeUser@1a495742liked the users.ProfessionalUser@49070868's edgeDetectedLadybird.png image.
+[Thu May 25 08:24:32 TRT 2023][INFO] Application started at: 2023-05-25T08:24:32.549545
+[Thu May 25 08:24:39 TRT 2023][INFO] Application ended at: 2023-05-25T08:24:39.214098
+[Thu May 25 08:24:52 TRT 2023][INFO] User kazimcan logged in successfully
+[Thu May 25 08:25:01 TRT 2023][INFO] User: users.HobbyistUser@5eb82abhas changed their profile photo.
+[Thu May 25 08:25:12 TRT 2023][INFO] User: users.HobbyistUser@5eb82abhas changed their profile photo.
+[Thu May 25 08:25:45 TRT 2023][INFO] User: kazimcanshared bird.png file as new photo.
+[Thu May 25 08:25:54 TRT 2023][INFO] User: users.HobbyistUser@5eb82ab has made bird.png image visible.
+[Thu May 25 08:26:49 TRT 2023][INFO] Sharpen filter is applied to bird.png file, took: 220ms.
+[Thu May 25 08:26:50 TRT 2023][INFO] The image: sharpenedBird.png has written to the images folder.
+[Thu May 25 08:27:31 TRT 2023][INFO] User: kazimcanshared crocodile.png file as new photo.
+[Thu May 25 08:27:47 TRT 2023][INFO] Sharpen filter is applied to crocodile.png file, took: 367ms.
+[Thu May 25 08:27:49 TRT 2023][INFO] The image: sharpenedCrocodile.png has written to the images folder.
+[Thu May 25 08:28:00 TRT 2023][INFO] User: users.HobbyistUser@5eb82ab has made crocodile.png image visible.
+[Thu May 25 08:28:45 TRT 2023][INFO] User: users.ProfessionalUser@473b46c3commented the users.ProfessionalUser@38f890b5's lion.png image: I am crazy.
+[Thu May 25 08:30:42 TRT 2023][INFO] Application started at: 2023-05-25T08:30:42.851060
+[Thu May 25 08:30:50 TRT 2023][INFO] Application ended at: 2023-05-25T08:30:50.349459
+[Thu May 25 08:31:01 TRT 2023][INFO] User sebnemdemirtas logged in successfully
+[Thu May 25 08:31:41 TRT 2023][INFO] User: users.FreeUser@760eb9ddhas changed their profile photo.
+[Thu May 25 08:32:53 TRT 2023][INFO] User: sebnemdemirtasshared cow.png file as new photo.
+[Thu May 25 08:33:01 TRT 2023][INFO] User: users.FreeUser@760eb9dd has made cow.png image visible.
+[Thu May 25 08:34:29 TRT 2023][INFO] User: users.ProfessionalUser@1e9e725acommented the users.HobbyistUser@5cdd8682's contrastedSnake.png image: nice contrast filter.
+[Thu May 25 08:34:43 TRT 2023][INFO] Application started at: 2023-05-25T08:34:43.412014
+[Thu May 25 08:34:49 TRT 2023][INFO] Application started at: 2023-05-25T08:34:49.089864
+[Thu May 25 08:34:50 TRT 2023][INFO] Application ended at: 2023-05-25T08:34:50.966362
+[Thu May 25 08:34:56 TRT 2023][INFO] Application ended at: 2023-05-25T08:34:56.702079
+[Thu May 25 08:35:05 TRT 2023][INFO] User dogadereci logged in successfully
+[Thu May 25 08:35:22 TRT 2023][INFO] User: dogaderecishared ladyBird.png file as new photo.
+[Thu May 25 08:35:27 TRT 2023][INFO] User: users.FreeUser@5f86bb88has changed their profile photo.
+[Thu May 25 08:36:38 TRT 2023][INFO] Application started at: 2023-05-25T08:36:38.059132
+[Thu May 25 08:36:45 TRT 2023][INFO] Application ended at: 2023-05-25T08:36:45.814924
+[Thu May 25 08:36:54 TRT 2023][INFO] User dogadereci logged in successfully
+[Thu May 25 08:37:03 TRT 2023][INFO] User: users.FreeUser@e871032 has made ladyBird.png image visible.
+[Thu May 25 08:37:16 TRT 2023][INFO] User: users.FreeUser@e871032commented the users.ProfessionalUser@551bdc27's fish.png image: nice fish.
+[Thu May 25 08:38:59 TRT 2023][INFO] Application started at: 2023-05-25T08:38:59.427741
+[Thu May 25 08:39:07 TRT 2023][INFO] Application started at: 2023-05-25T08:39:07.181680
+[Thu May 25 08:39:07 TRT 2023][INFO] Application ended at: 2023-05-25T08:39:07.345175
+[Thu May 25 08:39:15 TRT 2023][INFO] Application ended at: 2023-05-25T08:39:15.117985
+[Thu May 25 08:39:25 TRT 2023][INFO] Application started at: 2023-05-25T08:39:25.665131
+[Thu May 25 08:39:33 TRT 2023][INFO] Application ended at: 2023-05-25T08:39:33.310151
+[Thu May 25 08:39:45 TRT 2023][INFO] User administrator logged in successfully
+[Thu May 25 08:40:03 TRT 2023][INFO] User: users.ProfessionalUser@619626a8has changed their profile photo.
+[Thu May 25 08:46:39 TRT 2023][INFO] Application started at: 2023-05-25T08:46:39.258800
+[Thu May 25 08:46:46 TRT 2023][INFO] Application ended at: 2023-05-25T08:46:46.973678
+[Thu May 25 08:46:59 TRT 2023][INFO] User administrator logged in successfully
+[Thu May 25 08:48:29 TRT 2023][INFO] User: users.ProfessionalUser@14da6a30has deleted lion.pngimage from their sharings.
+[Thu May 25 08:48:52 TRT 2023][INFO] User: users.ProfessionalUser@14da6a30commented the users.ProfessionalUser@14da6a30's grayScaledDog.png image: I have deleted your other post.
+[Thu May 25 08:50:01 TRT 2023][INFO] User: users.ProfessionalUser@14da6a30deleted the emrekoc's comment: ' I have deleted your other post' fromgrayScaledDog.png image.
+[Thu May 25 08:51:57 TRT 2023][INFO] Application started at: 2023-05-25T08:51:57.020219
+[Thu May 25 08:52:04 TRT 2023][INFO] Application started at: 2023-05-25T08:52:04.003842
+[Thu May 25 08:52:04 TRT 2023][INFO] Application ended at: 2023-05-25T08:52:04.982213
+[Thu May 25 08:52:12 TRT 2023][INFO] Application ended at: 2023-05-25T08:52:12.216995
+[Thu May 25 08:52:13 TRT 2023][INFO] Application started at: 2023-05-25T08:52:13.437715
+[Thu May 25 08:52:21 TRT 2023][INFO] Application ended at: 2023-05-25T08:52:21.145942
+[Thu May 25 08:52:30 TRT 2023][INFO] Invalid login attempt
+[Thu May 25 08:52:37 TRT 2023][INFO] User administrator logged in successfully
+[Thu May 25 08:52:56 TRT 2023][INFO] User: administratorshared lion.png file as new photo.
+[Thu May 25 08:53:00 TRT 2023][INFO] User: users.Administrator@72e7d5a4 has made lion.png image visible.
+[Thu May 25 08:59:21 TRT 2023][INFO] Application started at: 2023-05-25T08:59:21.248924
+[Thu May 25 08:59:28 TRT 2023][INFO] Application ended at: 2023-05-25T08:59:28.960127
+[Thu May 25 08:59:39 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:00:01 TRT 2023][INFO] User: emrekoc shared efran.png file as new photo.
+[Thu May 25 09:00:26 TRT 2023][INFO] Blur filter is applied to efran.png file, took: 18098ms.
+[Thu May 25 09:00:42 TRT 2023][INFO] The image: blurred.png has written to the images folder.
+[Thu May 25 09:00:49 TRT 2023][INFO] User: users.ProfessionalUser@229a3f63has deleted efran.pngimage from their sharings.
+[Thu May 25 09:00:52 TRT 2023][INFO] User: users.ProfessionalUser@229a3f63has deleted blurred.pngimage from their sharings.
+[Thu May 25 09:01:52 TRT 2023][INFO] User: emrekoc shared dog2.png file as new photo.
+[Thu May 25 09:03:19 TRT 2023][INFO] Application started at: 2023-05-25T09:03:19.024749
+[Thu May 25 09:03:26 TRT 2023][INFO] Application ended at: 2023-05-25T09:03:26.865588
+[Thu May 25 09:03:39 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:04:48 TRT 2023][INFO] Application started at: 2023-05-25T09:04:48.418861
+[Thu May 25 09:04:56 TRT 2023][INFO] Application ended at: 2023-05-25T09:04:56.247932
+[Thu May 25 09:05:04 TRT 2023][INFO] User emrekoc logged in successfully
+
+[Thu May 25 09:06:41 TRT 2023][INFO] Application started at: 2023-05-25T09:06:41.334425
+[Thu May 25 09:06:49 TRT 2023][INFO] Application ended at: 2023-05-25T09:06:49.254605
+[Thu May 25 09:07:06 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:08:46 TRT 2023][INFO] Application started at: 2023-05-25T09:08:46.039456
+[Thu May 25 09:08:53 TRT 2023][INFO] Application ended at: 2023-05-25T09:08:53.953482
+[Thu May 25 09:09:02 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:09:14 TRT 2023][INFO] GrayScale filter is applied to giraffe.png file, took: 67ms.
+[Thu May 25 09:09:18 TRT 2023][INFO] The image: null.png has written to the images folder.
+[Thu May 25 09:09:24 TRT 2023][INFO] User: users.ProfessionalUser@710cc4aehas deleted null.pngimage from their sharings.
+[Thu May 25 09:12:19 TRT 2023][INFO] Application started at: 2023-05-25T09:12:19.697955
+[Thu May 25 09:12:27 TRT 2023][INFO] Application ended at: 2023-05-25T09:12:27.766050
+[Thu May 25 09:12:38 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:12:48 TRT 2023][INFO] GrayScale filter is applied to giraffe.png file, took: 57ms.
+[Thu May 25 09:12:53 TRT 2023][INFO] The image: null.png has written to the images folder.
+[Thu May 25 09:12:59 TRT 2023][INFO] User: users.ProfessionalUser@97eceb6has deleted null.pngimage from their sharings.
+[Thu May 25 09:13:07 TRT 2023][INFO] GrayScale filter is applied to lion.png file, took: 8ms.
+[Thu May 25 09:13:09 TRT 2023][INFO] The image: null.png has written to the images folder.
+[Thu May 25 09:13:21 TRT 2023][INFO] GrayScale filter is applied to dog.png file, took: 14ms.
+[Thu May 25 09:13:24 TRT 2023][INFO] The image: null.png has written to the images folder.
+[Thu May 25 09:13:36 TRT 2023][INFO] User: users.ProfessionalUser@97eceb6has deleted dog2.pngimage from their sharings.
+[Thu May 25 09:13:40 TRT 2023][INFO] User: users.ProfessionalUser@97eceb6has deleted grayScaledDog.pngimage from their sharings.
+[Thu May 25 09:13:47 TRT 2023][INFO] User: users.ProfessionalUser@97eceb6has deleted null.pngimage from their sharings.
+[Thu May 25 09:48:40 TRT 2023][INFO] Application started at: 2023-05-25T09:48:40.849981
+[Thu May 25 09:48:48 TRT 2023][INFO] Application ended at: 2023-05-25T09:48:48.782899
+[Thu May 25 09:49:36 TRT 2023][INFO] Invalid login attempt
+[Thu May 25 09:49:45 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 09:51:23 TRT 2023][INFO] User: emrekoc has changed their profile photo.
+[Thu May 25 09:52:55 TRT 2023][INFO] User: users.ProfessionalUser@2be9b68bcommented the users.HobbyistUser@1abc16c8's bird.png image: null.
+[Thu May 25 09:53:33 TRT 2023][INFO] User: users.ProfessionalUser@2be9b68bcommented the users.FreeUser@66cffb68's cow.png image: null.
+[Thu May 25 12:30:02 TRT 2023][INFO] Application started at: 2023-05-25T12:30:02.825516
+[Thu May 25 12:30:10 TRT 2023][INFO] Application ended at: 2023-05-25T12:30:10.782213
+[Thu May 25 12:30:19 TRT 2023][INFO] User emrekoc logged in successfully
+[Thu May 25 12:31:24 TRT 2023][INFO] User: users.ProfessionalUser@326aa75dhas updated their information.
+[Fri May 26 10:35:26 TRT 2023][INFO] Application started at: 2023-05-26T10:35:26.548254
+[Fri May 26 10:35:34 TRT 2023][INFO] Application ended at: 2023-05-26T10:35:34.499689
+[Fri May 26 10:35:48 TRT 2023][INFO] User administrator logged in successfully
+[Fri May 26 10:36:26 TRT 2023][INFO] User: users.ProfessionalUser@4e20e59chas deleted lion.pngimage from their sharings.
+[Fri May 26 10:37:01 TRT 2023][INFO] User: users.ProfessionalUser@6b1274d2has deleted edgeDetectedLadybird.pngimage from their sharings.
+[Fri May 26 10:37:23 TRT 2023][INFO] User: users.HobbyistUser@20d82a27has deleted bird.pngimage from their sharings.
+[Fri May 26 10:38:13 TRT 2023][INFO] Application started at: 2023-05-26T10:38:13.674292
+[Fri May 26 10:38:21 TRT 2023][INFO] Application ended at: 2023-05-26T10:38:21.288280
+[Fri May 26 10:47:05 TRT 2023][INFO] A new ProfessionalUser has signed up with the username: merveyilmaz.
+[Fri May 26 10:47:19 TRT 2023][INFO] User merveyilmaz logged in successfully
+[Fri May 26 10:48:35 TRT 2023][INFO] User: merveyilmaz has changed their profile photo.
+[Fri May 26 10:48:49 TRT 2023][INFO] User: users.ProfessionalUser@1d543e2ahas updated their information.
+[Fri May 26 10:49:11 TRT 2023][INFO] User: merveyilmaz shared lion.png file as new photo.
+[Fri May 26 10:49:19 TRT 2023][INFO] User: merveyilmaz has made lion.png image visible.
+[Fri May 26 10:49:38 TRT 2023][INFO] Blur filter is applied to lion.png file, took: 388ms.
+[Fri May 26 10:50:03 TRT 2023][INFO] The image: blurredLion.png has written to the images folder.
+[Fri May 26 10:50:35 TRT 2023][INFO] Sharpen filter is applied to lion.png file, took: 79ms.
+[Fri May 26 10:50:37 TRT 2023][INFO] The image: sharpenedLion.png has written to the images folder.
+[Fri May 26 10:50:43 TRT 2023][INFO] GrayScale filter is applied to lion.png file, took: 56ms.
+[Fri May 26 10:50:50 TRT 2023][INFO] The image: grayScaledLion.png has written to the images folder.
+[Fri May 26 10:50:57 TRT 2023][INFO] EdgeDetection filter is applied to lion.png file, took: 167ms.
+[Fri May 26 10:51:04 TRT 2023][INFO] The image: EdgeDetectedLion.png has written to the images folder.
+[Fri May 26 10:51:09 TRT 2023][INFO] Brightness filter is applied to lion.png file, took: 49ms.
+[Fri May 26 10:51:16 TRT 2023][INFO] The image: BrightenedLion.png has written to the images folder.
+[Fri May 26 10:51:21 TRT 2023][INFO] Contrast filter is applied to lion.png file, took: 65ms.
+[Fri May 26 10:51:27 TRT 2023][INFO] The image: contrastedLion.png has written to the images folder.
+[Fri May 26 10:51:46 TRT 2023][INFO] User: merveyilmaz has made grayScaledLion.png image visible.
+[Fri May 26 10:51:51 TRT 2023][INFO] User: merveyilmaz has made contrastedLion.png image visible.
+[Fri May 26 10:53:55 TRT 2023][INFO] Application started at: 2023-05-26T10:53:55.639925
+[Fri May 26 10:54:03 TRT 2023][INFO] Application ended at: 2023-05-26T10:54:03.338136
+[Fri May 26 10:54:37 TRT 2023][INFO] User administrator logged in successfully
+[Fri May 26 10:54:55 TRT 2023][INFO] User: users.HobbyistUser@d6da883has deleted snake.pngimage from their sharings.
+[Fri May 26 10:55:12 TRT 2023][INFO] User: users.HobbyistUser@d6da883has deleted contrastedSnake.pngimage from their sharings.
+[Fri May 26 11:09:42 TRT 2023][INFO] Application started at: 2023-05-26T11:09:42.637284
+[Fri May 26 11:09:50 TRT 2023][INFO] Application ended at: 2023-05-26T11:09:50.315024
+[Fri May 26 11:09:59 TRT 2023][INFO] Invalid login attempt
+[Fri May 26 11:10:05 TRT 2023][INFO] User administrator logged in successfully
+[Fri May 26 11:10:48 TRT 2023][INFO] Application started at: 2023-05-26T11:10:48.391066
+[Fri May 26 11:10:55 TRT 2023][INFO] Application ended at: 2023-05-26T11:10:55.943768
+[Fri May 26 11:11:07 TRT 2023][INFO] User kazimcan logged in successfully
+[Fri May 26 11:11:26 TRT 2023][INFO] User: users.HobbyistUser@6332e1d0commented the users.HobbyistUser@6332e1d0's crocodile.png image: I am crazy. Like my post.
+[Sun May 28 16:16:50 TRT 2023][INFO] Application started at: 2023-05-28T16:16:50.111834
+[Sun May 28 16:16:58 TRT 2023][INFO] Application ended at: 2023-05-28T16:16:58.094622
+[Sun May 28 16:17:08 TRT 2023][INFO] Invalid login attempt
+[Sun May 28 16:17:15 TRT 2023][INFO] User ceydacelik logged in successfully
+[Sun May 28 16:17:59 TRT 2023][INFO] User: ceydacelik has changed their profile photo.
+[Sun May 28 16:18:03 TRT 2023][INFO] User: ceydacelik has changed their profile photo.
+[Sun May 28 16:18:17 TRT 2023][INFO] User: ceydacelik has changed their profile photo.
+[Sun May 28 16:18:26 TRT 2023][INFO] User: ceydacelik has changed their profile photo.
+[Sun May 28 16:18:33 TRT 2023][INFO] User: users.ProfessionalUser@46a11622has updated their information.
+[Sun May 28 16:18:56 TRT 2023][INFO] User: users.ProfessionalUser@46a11622commented the users.FreeUser@77be656f's ladyBird.png image: bad photo.
+[Sun May 28 16:19:00 TRT 2023][INFO] User: users.ProfessionalUser@46a11622liked the users.FreeUser@77be656f's ladyBird.png image.
+[Sun May 28 16:21:07 TRT 2023][INFO] Application started at: 2023-05-28T16:21:07.098248
+[Sun May 28 16:21:15 TRT 2023][INFO] Application ended at: 2023-05-28T16:21:15.169434
+[Sun May 28 16:21:53 TRT 2023][INFO] User emrekoc logged in successfully
+[Sun May 28 16:22:28 TRT 2023][INFO] GrayScale filter is applied to dog.png file, took: 70ms.
+[Sun May 28 16:22:37 TRT 2023][INFO] The image: grayScaledog1.png has written to the images folder.
+[Wed May 31 12:25:36 TRT 2023][INFO] Application started at: 2023-05-31T12:25:36.127805
+[Wed May 31 12:25:44 TRT 2023][INFO] Application ended at: 2023-05-31T12:25:44.826013
+[Wed May 31 12:26:07 TRT 2023][INFO] User berkayyilmaz logged in successfully
+[Wed May 31 12:27:31 TRT 2023][INFO] User: users.HobbyistUser@4f27d5efcommented the users.ProfessionalUser@339f659e's lion.png image: null.
+[Wed May 31 12:27:54 TRT 2023][INFO] User: users.HobbyistUser@4f27d5efcommented the users.HobbyistUser@4f27d5ef's blurredGiraffe.png image: Giraffe.
+[Wed May 31 16:19:18 TRT 2023][INFO] Application started at: 2023-05-31T16:19:18.789563
+[Wed May 31 16:19:27 TRT 2023][INFO] Application ended at: 2023-05-31T16:19:27.326273
+[Wed May 31 16:19:56 TRT 2023][INFO] User emrekoc logged in successfully
+[Wed May 31 16:20:42 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:46 TRT 2023][INFO] User: users.ProfessionalUser@49ac479ccommented the users.HobbyistUser@37574691's crocodile.png image: nice photo.
+[Wed May 31 16:20:49 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdisliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:50 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdisliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:50 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdisliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:51 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdisliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:51 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdisliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:56 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:20:57 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cliked the users.HobbyistUser@37574691's crocodile.png image.
+[Wed May 31 16:21:26 TRT 2023][INFO] User: users.ProfessionalUser@49ac479cdeleted the dilaraceylan's comment: ' Nice grayScaled dog!' fromgrayScaledDog.png image.
+[Wed May 31 16:21:54 TRT 2023][INFO] Contrast filter is applied to dog.png file, took: 109ms.
+[Wed May 31 16:22:00 TRT 2023][INFO] The image: contrastedDog.png has written to the images folder.
+[Wed May 31 16:22:18 TRT 2023][INFO] User: emrekoc has made contrastedDog.png image visible.
+[Wed May 31 16:22:24 TRT 2023][INFO] User: users.ProfessionalUser@49ac479chas deleted grayScaledog1.pngimage from their sharings.
+[Wed May 31 16:24:45 TRT 2023][INFO] Application started at: 2023-05-31T16:24:45.625138
+[Wed May 31 16:24:53 TRT 2023][INFO] Application ended at: 2023-05-31T16:24:53.716770
+[Wed May 31 16:26:16 TRT 2023][INFO] A new HobbyistUser has signed up with the username: zeynepyilmaz.
+[Wed May 31 16:26:30 TRT 2023][INFO] User zeynepyilmaz logged in successfully
+[Wed May 31 16:26:49 TRT 2023][INFO] User: zeynepyilmaz has changed their profile photo.

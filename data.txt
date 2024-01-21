@@ -1,0 +1,43 @@
+administrator, photocloud, Admin, Admin, admin@gmail.com, defaultPP.png, Administrator
+zeynepyilmaz, photocloud, zeynep, yilmaz, zeynepyilmaz@gmail.com, elephant.png, HobbyistUser
+alperenyilmaz, photocloud, Alperen, Yilmaz, alperenYilmaz@gmail.com, alperen.png, HobbyistUser
+dogadereci, photocloud, Doga, Dereci, dogaDereci@gmail.com, dog.png, FreeUser
+1, 0, ladyBird.png, true
+merveyilmaz, photocloud, Merve, yilmaz, merveyilmazdkfls@gmail.com, elephant.png, ProfessionalUser
+0, 0, lion.png, true
+0, 0, blurredLion.png, false
+0, 0, sharpenedLion.png, false
+0, 0, grayScaledLion.png, true
+0, 0, EdgeDetectedLion.png, false
+0, 0, BrightenedLion.png, false
+0, 0, contrastedLion.png, true
+ceydacelik, photocloud, Ceyda, Celik, ceydacelik@gmail.com, sharpenedGoat.png, ProfessionalUser
+0, 0, cow.png, false
+0, 0, cat.png, false
+2, 0, brightenedCow.png, true
+sebnemdemirtas, photocloud, Sebnem, Demirtas, sebnemdemirtas@gmail.com, sebnem.png, FreeUser
+0, 0, cow.png, true
+kazimcan, photocloud, Kazim, Can, kazimcan@gmail.com, kazim.png, HobbyistUser
+0, 0, sharpenedBird.png, false
+3, 5, crocodile.png, true
+kazimcan, I am crazy. Like my post
+0, 0, sharpenedCrocodile.png, false
+batinsahin, photocloud, Batin, Sahin, batinsahin@gmail.com, batin.png, FreeUser
+0, 0, goat.png, false
+0, 0, sharpenedGoat.png, true
+berkayyilmaz, photocloud, Berkay, Yilmaz, BerkayYilmaz@gmail.com, berkay.png, HobbyistUser
+0, 0, bird.png, false
+0, 0, giraffe.png, false
+0, 0, blurredGiraffe.png, true
+berkayyilmaz, Giraffe
+dilaraceylan, photocloud, Dilara, Ceylan, dcceylan@gmail.com, dilara.png, ProfessionalUser
+0, 0, ladyBird.png, false
+0, 0, elephant.png, false
+0, 0, fish.png, true
+dogadereci, nice fish
+emrekoc, photocloud, Emre, Koc, ekoc20@gmail.com, emre.png, ProfessionalUser
+0, 0, dog.png, false
+0, 0, giraffe.png, false
+1, 0, grayScaledDog.png, true
+0, 0, dog2.png, false
+0, 0, contrastedDog.png, true
